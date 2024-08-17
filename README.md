@@ -29,6 +29,11 @@ df
 ```
 ![image](https://github.com/user-attachments/assets/edb31204-c80d-4cf4-aeeb-7777a6808a11)
 ```
+df.isnull().sum()
+```
+![image](https://github.com/user-attachments/assets/26c8e67f-eb27-48c8-82c6-ddfb1dd75f6a)
+```
+
                        
 
 
