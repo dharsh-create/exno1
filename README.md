@@ -21,7 +21,8 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-                         # DATA CLEANING
+# DATA CLEANING
+                         
 
 ```
 import pandas as pd
@@ -64,6 +65,7 @@ df.fillna({'GENDER':'MALE','NAME':'SRI','ADDRESS':'POONAMALEE','M1':98,'M2':87,'
 ![image](https://github.com/user-attachments/assets/87e1f136-b4e8-45c9-909c-422bfdfbeb65)
 ```
 IQR(Inter Quartile Range)
+
 import pandas as pd
 ir=pd.read_csv('iris.csv')
 ir
